@@ -41,4 +41,9 @@ th, td {
     text-align: center;
 
 }
+th{
+    background-color:rgb(4 , 59, 84); 
+    color: white;
+
+}
 
